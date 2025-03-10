@@ -52,9 +52,7 @@ To run this project locally:
 ---
 
 ## 🙌 Credits
-Developed by **[Your Name]**
-
-Special thanks to **Pluralsight** for inspiration and learning resources.
+Developed by **Bolutife Alli**
 
 ---
 
