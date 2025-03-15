@@ -51,15 +51,15 @@ To run this project locally:
 
 ---
 
-## 🙌 Credits
-Developed by **Bolutife Alli**
+## ✨ Crediting & Publishing
+
+If you use or modify this project:  
+✔️ **Give credit** by mentioning the original project in your repository.  
+✔️ **Feel free to fork** and customize for your own needs.  
+✔️ **Publish improvements** and contribute back to the community!  
+
+If you plan to **publish** your own version, please:  
+📌 Include an acknowledgment to this original repository.  
+📌 Clearly document any modifications or enhancements you've made. 
 
 ---
-
-## 📜 License
-This project is open-source under the **MIT License**.
-
----
-
-Enjoy using **People Manager**? Give this project a ⭐ on GitHub!
-
